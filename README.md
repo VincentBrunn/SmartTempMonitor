@@ -2,6 +2,7 @@
 An **Arduino-powered temperature monitoring system** that measures ambient temperature and alerts users when it exceeds a predefined range. Features **real-time temperature readings, an LCD display, and an alarm system (buzzer + LED)**.  
 
 ![Project Preview](https://i.imgur.com/rcuTFhA.png)
+(A full design report can be found above in the repository's files)
 
 ## 🔹 Features  
 ✅ **Real-time temperature monitoring** (TMP36 sensor)  
